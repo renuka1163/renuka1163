@@ -10,8 +10,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renukacsit&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renukacsit&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renuka1163&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renuka1163&layout=compact)
 
 ## 📫 Connect with Me
 - ✉️ Email: renuka@example.com
